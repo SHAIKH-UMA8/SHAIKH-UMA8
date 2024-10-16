@@ -3,13 +3,12 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-SHAIKH-UMA8/SHAIKH-UMA8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## DevOps Engineer | AWS Engineer
+
+Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
+
 
   
 # Curated List of DevOps Tools
@@ -47,6 +46,17 @@ You can click the Preview link to take a look at your changes.
 #### Editor / IDE I ♥
 
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
+
+
+
+### 🔧 Technologies and Tools
+
+- **Cloud**: AWS
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitHub 
+- **Configuration Management**: Ansible, Terraform
+- **Scripting**: Bash, 
+- **Version Control**: Git, GitHub
  
 
 
