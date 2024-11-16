@@ -1,3 +1,7 @@
+## Hi There, I'm UMAR SHAIKH
+
+I am a DevOps Engineer with a strong focus on automating workflows, optimizing CI/CD pipelines, and managing cloud infrastructure. With a deep understanding of both development and operations, I work to bridge the gap between these two domains, ensuring faster delivery, high availability, and scalability of applications.
+
 ## DevOps Engineer | AWS Engineer
 
 Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
